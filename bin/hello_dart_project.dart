@@ -5,3 +5,7 @@ void main() {
 int addition() {
   return 5;
 }
+
+double doubleAddition(double x, double y) {
+  return x + y;
+}
